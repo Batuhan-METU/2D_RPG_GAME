@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2995eb4de6f6a5041b613e3c4e1ef311
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - onDamageMaterial: {fileID: 2100000, guid: c92512a543c5a94499df3cc98251d3a9, type: 2}
+  - attackAlert: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

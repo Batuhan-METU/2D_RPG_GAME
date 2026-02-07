@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59d8a5b69fe50e74a86d57021af5634c, type: 3}
+  m_Name: Line - MerchantBob_2 2
+  m_EditorClassIdentifier: 
+  dialogueGroupName: Merchant Bob
+  speaker: {fileID: 11400000, guid: ca34c7dbd73516c4f88685ff4da95a71, type: 2}
+  textLine:
+  - 'You came to the right place! '
+  playerChoiceAnswer: About the job...
+  choiceLines:
+  - {fileID: 11400000, guid: a6e4cfea3d4b0db468858616c9997b06, type: 2}
+  - {fileID: 11400000, guid: b613a163251182c49bf3f119d44a33cf, type: 2}
+  actionLine: 
+  actionType: 5

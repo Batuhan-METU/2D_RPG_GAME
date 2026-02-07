@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cdfdfbc5df2c414e952a12e3fc10d6f, type: 3}
+  m_Name: Skill data - Echo step
+  m_EditorClassIdentifier: 
+  displayName: Echo step
+  description: 'Create a time echo before you dash.
+
+    (Inherits all upgrades of
+    Time ech Ability)'
+  icon: {fileID: 2145447606, guid: 7ae0115109b4a6f42a4f7ad59397d09b, type: 3}
+  cost: 2
+  unlockedByDefault: 0
+  skillType: 0
+  upgradeData:
+    upgradeType: 2
+    cooldown: 3
+    damageScaleData:
+      phyiscal: 1
+      elemental: 1
+      chillDuration: 3
+      chillSlowMulitplier: 0.2
+      burnDuratin: 3
+      burnDamageScale: 1
+      shockDuration: 3
+      shockDamageScale: 1
+      shockCharge: 0.4
